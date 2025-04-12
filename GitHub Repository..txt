@@ -1,6 +1,0 @@
-JSbasic-1 https://github.com/richianbalaido27/JSBASICS-1.git
-
-
-JSbasic-2 https://github.com/richianbalaido27/JSbasic-2.git
-
-JSbasic-3 https://github.com/richianbalaido27/JSbasic-3.git
